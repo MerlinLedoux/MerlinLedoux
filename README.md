@@ -1,14 +1,27 @@
-## Hi there 👋
+<!--
+  This is your PROFILE README. It goes in a repo named exactly after your
+  username (e.g. github.com/OCTOCAT/OCTOCAT) so GitHub shows it on your profile.
+  Widths 370/490 keep the portrait and info card the same height -- if you
+  change the info card's H, re-match these.
+-->
+<div align="center">
 
-**MerlinLedoux/MerlinLedoux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table>
+<tr>
+<td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Experience, stack, highlights" /></td>
+</tr>
+</table>
 
-Here are some ideas to get you started:
+## Merlin Ledoux
 
-- 🔭 I’m currently working on mu Github profile
-- 🌱 I’m currently learning git
-- 👯 I’m looking to collaborate on anything
-- 🤔 I’m looking for help with nothing
-- 💬 Ask me about my day
-- 📫 How to reach me: don't
-- 😄 Pronouns: Me
-- ⚡ Fun fact: I am !!!
+**AI Engineer**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Merlin_Ledoux-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merlin-ledoux-78b58a2a1/)
+
+<br>
+
+<!-- animated contribution graph, refreshed daily by the workflow -->
+<img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
+
+</div>
